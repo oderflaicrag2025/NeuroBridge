@@ -1,0 +1,35 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-log.txt
+
+# 🌐 Entorno virtual
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+
+# 🔐 Variables de entorno
+.env
+.env.*
+
+# 📝 Archivos temporales de texto
+*.log
+*.tmp
+*.bak
+
+# 📁 VSCode y Codespaces
+.vscode/
+.devcontainer/
+*.code-workspace
+
+# 💻 Archivos del sistema operativo
+.DS_Store
+Thumbs.db
